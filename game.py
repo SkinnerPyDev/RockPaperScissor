@@ -50,4 +50,6 @@ while status:
     else:
         status =False
     
+print("Thank you for playing :)")
+    
     
