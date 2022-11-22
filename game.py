@@ -48,8 +48,7 @@ while status:
     if play_again == "y":
         continue
     else:
-        status =False
-    
+        status =False   
 print("Thank you for playing :)")
     
     
